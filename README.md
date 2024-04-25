@@ -1,5 +1,7 @@
 # itop-vpn-chrome-extension
 
+<img src="https://github.com/MateasWrot/itop-vpn-chrome-extension/blob/main/it.png"/>
+
 *Chrome VPN is increasingly catching people's eyes with the unimpeded rise of Google Chrome to be a globally dominant web browse. One of the most important reasons for the need for Google Chrome VPN is the gradual recognition of online safety and privacy issues. Specifically, sites could collect and misuse your information that you might don't even know they have had access to when you surf online. Besides, if you want to game, stream, and socialize with the Google browser, Chrome VPN is also the most feasible solution to unlock website restrictions caused by censorship in different countries*
 
 ___
@@ -28,3 +30,4 @@ Considering that you may have more than one devices, iTop VPN allows up to 5 sim
 
 iTop VPN is also reputed for the advanced kill switch feature that can automatically cut down the local network immediately it detects unexpected network disconnection or other unsafe changes
 
+<img src="https://github.com/MateasWrot/itop-vpn-chrome-extension/blob/main/d5.png"/>
