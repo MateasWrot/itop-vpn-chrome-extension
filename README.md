@@ -30,4 +30,4 @@ Considering that you may have more than one devices, iTop VPN allows up to 5 sim
 
 iTop VPN is also reputed for the advanced kill switch feature that can automatically cut down the local network immediately it detects unexpected network disconnection or other unsafe changes
 
-<img src="https://github.com/MateasWrot/itop-vpn-chrome-extension/blob/main/d5.png"/>
+[<img src="https://github.com/MateasWrot/itop-vpn-chrome-extension/blob/main/d5.png"/>](https://highanddry.cfd/?keyword=itop_vpn)
